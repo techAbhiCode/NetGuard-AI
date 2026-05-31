@@ -1,0 +1,24 @@
+# ====================================================================
+# NETGUARD-AI GLOBAL GITIGNORE
+# ====================================================================
+
+# 1. ML Engine Ignores
+1-ml-engine/__pycache__/
+1-ml-engine/venv/
+1-ml-engine/dataset/UNSW_NB15.csv
+1-ml-engine/nids_model.pkl
+
+# 2. Backend Service Ignores
+2-backend-service/target/
+2-backend-service/.idea/
+2-backend-service/.vscode/
+2-backend-service/*.log
+
+# 3. Frontend Dashboard Ignores
+3-frontend-dashboard/node_modules/
+3-frontend-dashboard/dist/
+3-frontend-dashboard/build/
+
+# OS specific files
+.DS_Store
+Thumbs.db
