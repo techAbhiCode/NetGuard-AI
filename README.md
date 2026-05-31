@@ -113,5 +113,3 @@ Shivam Kumar - Final-Year Computer Science Engineering Student
 GitHub: @techAbhiCode
 
 ***
-
-Ab aap is text ko save karke direct push kar sakte hain. Google drive links update karna mat bhulna!
